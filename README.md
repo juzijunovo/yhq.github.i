@@ -11,7 +11,7 @@
 - **团组织经历：** 优秀团干，曾任团支书一职，参与“永远跟党走，建党一百周年”活动
 
 ### 技术探索
-- **GitHub个人主页：** [github.com/yourusername](https://github.com/yourusername)
+- **GitHub个人主页：** [github.com/juzijunovo](https://github.com/juzijunovo)
 - **技术兴趣：** 热爱前端开发，深入学习Vue.js等技术
 
 ### 兴趣爱好
